@@ -10,4 +10,7 @@ Hello World, This is my first Git repository to learn version controlling system
 > 3. How to create Pull Requests after successfully comparing the branch modifications with the main repository.
 > 4. Finally how to merge the pull request to the main repository and delete the branch safely post successful merge.
 ### All About Conflict
-**Now i will be testing conflict and how to resolve**   
+**Now i will be testing conflict and how to resolve** 
+### All About Creating conflicts with previous Branch
+**Let's see how it goes.**
+
